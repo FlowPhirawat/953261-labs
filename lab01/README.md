@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | Phirawat Kanjananuchit |
+| **Nickname** | Flow |
+| **Student ID** | 692115033 |
 | **Section** | 701 |
 
 ## How to run
@@ -18,8 +18,8 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
+I learned how a web server handles HTTP requests and sends responses back to the browser. When I type a URL, the browser sends a request to the server, and the server processes it and returns an appropriate response, such as an HTML page, JSON data, or a 404 error.
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
+I used ChatGPT to explain Git errors, guide me through implementing HTTP routes, and help me understand my Node.js server code.
