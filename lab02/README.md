@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | Phirawat Kanjananuchit |
+| **Nickname** | Flow |
+| **Student ID** | 692115033 |
 | **Section** | 701 |
 
 ## How to run
@@ -18,12 +18,14 @@ npm start        # Part D — the daily report
 
 ## My own function (Part D)
 
-_Name of your function, what it returns, and which array methods it uses._
+`cheapDrinks(menu, maxPrice)` returns the menu lines of available drinks that cost maxPrice or less, cheapest first. It uses `filter` to keep only available drinks under the price limit, `sort` to order them by price, and `map` to turn each item into a menu line with `menuLine`.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: when would you use map, filter, find and reduce?_
+## What I learned today
+
+I use `map` when I want to change every item in an array into a new value, and I get a new array with the same length. I use `filter` when I want to keep only the items that match a condition, so the new array is shorter. I use `find` when I want the first item that matches, and I get one object (or `undefined` if nothing matches). I use `reduce` when I want to combine many values into one value, for example the total price of an order.
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what. If no, write "No AI tools used."_
+I used ChatGPT to guide me understand what to do after `npm start` worked and how to commit and push.
