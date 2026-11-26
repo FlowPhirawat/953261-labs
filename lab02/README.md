@@ -22,8 +22,6 @@ npm start        # Part D — the daily report
 
 ## What I learned today
 
-## What I learned today
-
 I use `map` when I want to change every item in an array into a new value, and I get a new array with the same length. I use `filter` when I want to keep only the items that match a condition, so the new array is shorter. I use `find` when I want the first item that matches, and I get one object (or `undefined` if nothing matches). I use `reduce` when I want to combine many values into one value, for example the total price of an order.
 
 ## AI-use statement
